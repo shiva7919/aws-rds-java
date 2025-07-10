@@ -49,7 +49,6 @@ It should include:
 - 📶 Internet Gateway connected to public route table
 - 🧷 NAT (optional for outbound access if needed)
 - 🗄️ RDS MySQL in the private subnet
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2f8c0101-245a-464b-9d75-59b619b024c6" />
 ---
 
 ## 🧰 3. Prerequisites
@@ -81,6 +80,7 @@ You provisioned networking infrastructure with a **CloudFormation YAML template*
 - Route tables for subnet association
 
 > 📄 **Tip**: Include your YAML file in your project folder or repository as `vpc-setup.yaml`.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2f8c0101-245a-464b-9d75-59b619b024c6" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/92bd8489-05dc-4587-a4bc-e65fff0f8a4e" />
 <img width="1639" height="552" alt="Image" src="https://github.com/user-attachments/assets/07c5d10f-ef78-4f71-bb7b-0cfc77637bef" />
 <img width="1210" height="327" alt="Image" src="https://github.com/user-attachments/assets/a011ecc1-3c01-44a7-97c6-13b3b678a563" />
