@@ -182,9 +182,8 @@ http://<public-ec2-public-ip>:8080/aws-rds-java
 
 ### 📋 Test Pages
 -login.jsp
-
 -userRegistration.jsp
-
+<img width="1064" height="451" alt="Image" src="https://github.com/user-attachments/assets/72565bc1-0922-45c5-84b0-a269c65cbaeb" />
 💡 These pages interact with the RDS database using JDBC. Ensure DB credentials are set correctly in the app.
 
 ## 🔐 10. Security Group Rules Summary
